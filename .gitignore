@@ -24,8 +24,12 @@ pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
-*.egg
+*.egg 
 MANIFEST
+
+# .DS_Store
+.DS_Store
+# The askBCS guys told me I could put this not on line 27 :) 
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
